@@ -1,4 +1,4 @@
-### Hi there 👋 This is Dylon Luo!
+### Hi there 👋 
 
 
 #### 🌱 Things I am currently working on:

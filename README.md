@@ -1,8 +1,4 @@
-### Hi there 👋
-
-### This is Dylon Luo!
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dylongluo)
+### Hi there 👋 This is Dylon Luo!
 
 
 #### 🌱 Things I am currently working on:

@@ -1,5 +1,3 @@
-# <div align="center">Dylon Luo</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,25:0b1220,50:1d4ed8,75:0891b2,100:111827&text=Dylon%20Luo&fontColor=f8fafc&fontSize=52&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Native%20Builder%20%7C%20System%20Thinker&descAlignY=60&animation=fadeIn" />
 </div>

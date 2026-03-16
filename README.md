@@ -24,30 +24,6 @@ I build backend platforms, enterprise integrations, and cloud-native systems wit
 - Comfortable across application code, infrastructure, and production operations.
 - Interested in Java, distributed systems, Kubernetes, AWS, and high-performance services.
 
-## Current Focus
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Building
-
-- Enterprise workflow automation
-- Cloud-native service deployment
-- Reliable integration pipelines
-
-### Improving
-
-- System design depth
-- Performance and resilience
-- Developer experience
-
-  </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=dylonluo&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&icon_color=22d3ee&bg_color=00000000" alt="GitHub stats" />
-    </td>
-  </tr>
-</table>
 
 ## Tech Arsenal
 
